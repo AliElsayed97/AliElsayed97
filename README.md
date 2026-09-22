@@ -34,29 +34,21 @@ Senior Flutter Developer with **5+ years of experience** building scalable, main
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github" />
 </p>
 
-**Languages & Frameworks**
-Dart • Flutter • Android
+**Languages & Frameworks** → Dart • Flutter • Android
 
-**Architecture & Design**
-Clean Architecture • SOLID • MVVM • Repository Pattern • Dependency Injection
+**Architecture & Design** → Clean Architecture • SOLID • MVVM • Repository Pattern • Dependency Injection
 
-**State Management**
-Cubit • BLoC • Provider • GetX
+**State Management** → Cubit • BLoC • Provider • GetX
 
-**Backend & Services**
-REST APIs • Firebase • FCM • Google Maps • Payment Gateways
+**Backend & Services** → REST APIs • Firebase • FCM • Google Maps • Payment Gateways
 
-**Database & Storage**
-SQLite • Sqflite • SharedPreferences
+**Database & Storage** → SQLite • Sqflite • SharedPreferences
 
-**Testing & Quality**
-Unit Testing • Widget Testing • Mockito • Flutter Test
+**Testing & Quality** → Unit Testing • Widget Testing • Mockito • Flutter Test
 
-**CI/CD & Development**
-Git • GitHub • GitHub Actions • CI/CD
+**CI/CD & Development** → Git • GitHub • GitHub Actions • CI/CD
 
-**AI & Developer Tools**
-Claude Code • Codex • Google Antigravity • AI-assisted development
+**AI & Developer Tools** → Claude Code • Codex • Google Antigravity • DeepSeek
 
 
 
