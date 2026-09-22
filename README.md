@@ -2,49 +2,62 @@
 
 ### Senior Flutter Developer | Mobile Application Developer
 
-I'm a **Senior Flutter Developer** with **5+ years of experience** building scalable, maintainable, and production-ready mobile applications. I've worked on **20+ published apps** across **e-commerce, marketplaces, POS, booking, food delivery, real estate, and sports**.
-
 ---
 
 ## 👨‍💻 About Me
 
-* 📱 Building cross-platform mobile applications with **Flutter & Dart**
-* 🏗️ Designing scalable apps using **Clean Architecture & SOLID**
-* 🔄 Experienced with **Cubit, BLoC, Provider & GetX**
-* 🔗 Integrating **REST APIs, Firebase & third-party services**
-* 💳 Working with **payment gateways & digital wallets**
-* ⚡ Focused on **performance, clean code & reusable components**
-* 🚀 Experienced in **Google Play & App Store deployment**
+Senior Flutter Developer with **5+ years of experience** building scalable, maintainable, and production-ready cross-platform mobile applications.
+
+* 📱 **20+ published mobile applications**
+* 🚀 Experienced in taking applications from **architecture and development to production release**
+* 🏢 Experience across **E-commerce, Marketplaces, POS, Booking, Food Delivery, Real Estate & Sports**
+* 🎯 Focused on building **reliable, maintainable, and user-focused mobile experiences**
+
+---
+
+## 💡 Experience & Expertise
+
+* 🏗️ **Architecture & Design** — Clean Architecture, SOLID, scalable project structure & dependency injection
+* ⚡ **Performance** — UI rendering, widget rebuilds, memory optimization, caching & smooth user experiences
+* 🔄 **State Management** — Cubit, BLoC, Provider & GetX
+* 🔗 **API & Backend Integration** — REST APIs, Firebase, authentication & third-party services
+* 💳 **Payments & Location** — Payment gateways, digital wallets & Google Maps integrations
+* 🌍 **Localization** — Arabic/English localization, RTL support & responsive UI
+* 🧪 **Testing & Quality** — Unit testing, widget testing, Mockito & clean code practices
+* 🚀 **Production & CI/CD** — Debugging, release management, Play Store, App Store & CI/CD workflows
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github" />
 </p>
 
-**Architecture & Patterns:** Clean Architecture • SOLID • MVVM • Repository Pattern
+**Languages & Frameworks**
+Dart • Flutter • Android
 
-**State Management:** Cubit • BLoC • Provider • GetX
+**Architecture & Design**
+Clean Architecture • SOLID • MVVM • Repository Pattern • Dependency Injection
 
-**Backend & Services:** REST APIs • Firebase • FCM • Google Maps • Payment Gateways
+**State Management**
+Cubit • BLoC • Provider • GetX
 
-**Storage:** SQLite • Sqflite • SharedPreferences 
+**Backend & Services**
+REST APIs • Firebase • FCM • Google Maps • Payment Gateways
 
-**Testing & CI/CD:** Flutter Testing • Mockito • GitHub Actions
+**Database & Storage**
+SQLite • Sqflite • SharedPreferences
 
----
+**Testing & Quality**
+Unit Testing • Widget Testing • Mockito • Flutter Test
 
-## 🚀 What I Do Best
+**CI/CD & Development**
+Git • GitHub • GitHub Actions • CI/CD
 
-<p align="left">
-  📱 <b>Flutter Development</b> — Scalable cross-platform applications<br>
-  🏗️ <b>Architecture</b> — Clean, maintainable and testable code<br>
-  ⚡ <b>Performance</b> — Smooth UI and optimized applications<br>
-  🔗 <b>API Integration</b> — REST APIs, Firebase and third-party services<br>
-  💳 <b>Payments</b> — Payment gateways and digital wallet integrations<br>
-  🚀 <b>Deployment</b> — Production releases for Android & iOS
-</p>
+**AI & Developer Tools**
+Claude Code • Codex • Google Antigravity • AI-assisted development
+
+
 
 
