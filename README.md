@@ -34,7 +34,7 @@ Senior Flutter Developer with **5+ years of experience** building scalable, main
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github" />
 </p>
 
-**Languages & Frameworks** → Dart • Flutter • Android
+**Languages & Frameworks** → Dart • Flutter • Android • IOS
 
 **Architecture & Design** → Clean Architecture • SOLID • MVVM • Repository Pattern • Dependency Injection
 
